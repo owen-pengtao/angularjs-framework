@@ -1,0 +1,12 @@
+{
+  "name": "angularjs-framework",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.3.0",
+    "angular-route": "~1.3.0",
+    "angular-cookies": "~1.3.0",
+    "angular-bootstrap": "~0.11.2",
+    "bootstrap": "~3.3.1",
+    "jquery": "~2.1.0"
+  }
+}
